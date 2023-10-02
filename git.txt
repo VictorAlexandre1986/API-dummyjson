@@ -1,0 +1,3 @@
+git branch -M main
+git remote add origin https://github.com/VictorAlexandre1986/API-dummyjson.git
+git push -u origin main
